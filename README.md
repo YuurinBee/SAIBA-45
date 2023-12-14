@@ -14,7 +14,7 @@
 
 | Regular | Outlined |
 | :-: | :-: | 
-| ![Regular](https://imgur.com/HunIzjj.png) | ![Outlined](https://imgur.com/50ft6Dl.png)
+| ![Regular](https://imgur.com/HunIzjj.png) | ![Outline](https://imgur.com/50ft6Dl.png)
 
 Font Information
 -------
