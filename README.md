@@ -10,17 +10,18 @@
 > <p align="justify">  SAIBA-45 is a display font that was inspired by CyberPunk, NeoTokyo, Mecha, Manga/Anime, Retro, Tech, and Futuristic styles. It was intended to be used for short-form and large-format displays, but not limited to this type of application. Efficient ways to experiment with this font are provided in graphic examples below, but include: distinct logotypes, stylized names and text, unique vector characters, bold titles, and more. The name SAIBA was chosen as the "katakazination" (transforming English to Katakana) of the English word "Cyber" to be pronounced with Japanese vowels and syllables. The word cyber translates to サイバー in Japanese, which is pronounced as "Saiba". The 45 in SAIBA-45 is reflective of the 45 degree angles used to create the prominent edges, defining the look and feel of the font. This font has been in development since 2021.</p>
 
 ![SAIBA-45 Banner](https://imgur.com/tUiLHgg.png)<br>
+![SAIBA-45 Cyrillic](https://imgur.com/G7wFxFa.png)<br>
 
-| Regular | Outlined |
+| Regular | Outline |
 | :-: | :-: | 
-| ![Regular](https://imgur.com/HunIzjj.png) | ![Outlined](https://imgur.com/50ft6Dl.png)
+| ![Regular](https://imgur.com/HunIzjj.png) | ![Outline](https://imgur.com/50ft6Dl.png)
 
 Font Information
 -------
-* 2 Variations: `Regular`, `Outlined`
-* Characters: `Alphanumeric`, `Non-Alphanumeric`
-* Character Count: `78`
-* Language Support: `English`
+* 2 Variations: `Regular`, `Outline`
+* Characters: `Alphanumeric`, `Non-Alphanumeric`, `Cyrillic`
+* Character Count: `128`
+* Language Support: `English`, `Russian`, `Belarusian`, `Bulgarian`, `Kazakh`, `Kyrgyz`, `Macedonian`, `Montenegrin`, `Serbian`, `Tajik`, `Turkmen`, `Ukrainian`, `Uzbek`
 * Original Color: HEX ![#ff1778](https://via.placeholder.com/15/00FF00/000000?text=+) `#00FF00`<br>
 
 
@@ -29,6 +30,7 @@ File Formats
 * OpenType Format `.otf`
 * TrueType Format `.ttf`
 * Web Open Font Format `.woff`
+* Web Open Font Format 2 `.woff2`
 * Embedded Open Type `.eot`
 * Scalable Vector Graphics `.svg`
 * Encapsulated PostScript `.eps`
@@ -52,6 +54,7 @@ Application & Use
 Below are some example applications and usecases for the SAIBA-45 fonttype. Feel free to experiment, enjoy the process, and have fun!
 
 ![Display](https://imgur.com/xeyNaTY.png)
+![Cyrillic Cyberpunk Display](https://imgur.com/3ELsqJ2.png)
 
 
 | ![Stylized Characters](https://imgur.com/6pmjxqI.png) | ![Mecha](https://imgur.com/zAzF3H8.png) | ![Tech](https://imgur.com/D8LZ3pT.png)
