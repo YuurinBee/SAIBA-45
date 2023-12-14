@@ -12,7 +12,7 @@
 ![SAIBA-45 Banner](https://imgur.com/tUiLHgg.png)<br>
 ![SAIBA-45 Cyrillic](https://imgur.com/G7wFxFa.png)<br>
 
-| Regular | Outlined |
+| Regular | Outline |
 | :-: | :-: | 
 | ![Regular](https://imgur.com/HunIzjj.png) | ![Outline](https://imgur.com/50ft6Dl.png)
 
