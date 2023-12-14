@@ -54,6 +54,7 @@ Application & Use
 Below are some example applications and usecases for the SAIBA-45 fonttype. Feel free to experiment, enjoy the process, and have fun!
 
 ![Display](https://imgur.com/xeyNaTY.png)
+![Cyrillic Cyberpunk Display](https://imgur.com/3ELsqJ2.png)
 
 
 | ![Stylized Characters](https://imgur.com/6pmjxqI.png) | ![Mecha](https://imgur.com/zAzF3H8.png) | ![Tech](https://imgur.com/D8LZ3pT.png)
