@@ -3,7 +3,7 @@
 > **SAIBA-45 is a free, open-source fonttype and scalable vector graphics.**<br>
 > License: [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)<br>
 > Author: [Formless Labs](https://www.behance.net/formlesslabs)<br>
-> Contributors: [YuurinBee](https://github.com/yuurinbee), [JSKitty](https://github.com/jskitty)<br>
+> Contributors: [YuurinBee](https://github.com/yuurinbee), [JSKitty](https://github.com/jskitty),  [Joshua Fern](https://github.com/JoshuaFern)<br>
 > Contact: [YuurinBee](https://twitter.com/YuurinB)<br>
 
 ![SAIBA-45 Banner](https://imgur.com/pjRKWFX.png)<br>
@@ -69,7 +69,7 @@ License
 ------
 ```
     SAIBA-45
-    Copyright (C) 2024 YuurinBee
+    Copyright (C) 2024 Formless Labs
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
