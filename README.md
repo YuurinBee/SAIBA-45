@@ -3,7 +3,7 @@
 > **SAIBA-45 is a free, open-source fonttype and scalable vector graphics.**<br>
 > License: [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)<br>
 > Author: [Formless Labs](https://www.behance.net/formlesslabs)<br>
-> Contributors: [YuurinBee](https://github.com/yuurinbee), [JSKitty](https://github.com/jskitty)<br>
+> Contributors: [YuurinBee](https://github.com/yuurinbee), [JSKitty](https://github.com/jskitty),  [Joshua Fern](https://github.com/JoshuaFern)<br>
 > Contact: [YuurinBee](https://twitter.com/YuurinB)<br>
 
 ![SAIBA-45 Banner](https://imgur.com/pjRKWFX.png)<br>
@@ -65,3 +65,32 @@ Below are some example applications and usecases for the SAIBA-45 fonttype. Feel
 ### Terminal - System Status
 https://github.com/YuurinBee/SAIBA-45/assets/32799031/a9ea43cf-fc7d-4ea7-af4f-d48ebc4738ed
 
+License
+------
+```
+    SAIBA-45
+    Copyright (C) 2024 Formless Labs
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+    As a special exception, if you create a document which uses this font,
+    and embed this font or unaltered portions of this font into the
+    document, this font does not by itself cause the resulting document to
+    be covered by the GNU General Public License. This exception does not
+    however invalidate any other reasons why the document might be covered
+    by the GNU General Public License. If you modify this font, you may
+    extend this exception to your version of the font, but you are not
+    obligated to do so. If you do not wish to do so, delete this exception
+    statement from your version.
+```
