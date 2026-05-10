@@ -6,6 +6,9 @@
 > Contributors: [YuurinBee](https://github.com/yuurinbee), [JSKitty](https://github.com/jskitty),  [Joshua Fern](https://github.com/JoshuaFern)<br>
 > Contact: [YuurinBee](https://twitter.com/YuurinB)<br>
 
+> [!NOTE]
+> View the full project on [Behance](https://www.behance.net/gallery/247954695/SAIBA-45-Typeface)<br>
+
 ![SAIBA-45 Banner](https://imgur.com/pjRKWFX.png)<br>
 > <p align="justify">  SAIBA-45 is a display font that was inspired by CyberPunk, NeoTokyo, Mecha, Manga/Anime, Retro, Tech, and Futuristic styles. It was intended to be used for short-form and large-format displays, but not limited to this type of application. Efficient ways to experiment with this font are provided in graphic examples below, but include: distinct logotypes, stylized names and text, unique vector characters, bold titles, and more. The name SAIBA was chosen as the "katakazination" (transforming English to Katakana) of the English word "Cyber" to be pronounced with Japanese vowels and syllables. The word cyber translates to サイバー in Japanese, which is pronounced as "Saiba". The 45 in SAIBA-45 is reflective of the 45 degree angles used to create the prominent edges, defining the look and feel of the font. This font has been in development since 2021.</p>
 
